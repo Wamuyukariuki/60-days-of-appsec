@@ -1,0 +1,91 @@
+60-days-of-appsec/
+│
+├── README.md
+├── RESOURCES.md
+├── .gitignore
+├── LICENSE
+│
+├── 01-foundations/
+│   ├── Day-01-web-lifecycle/
+│   │   ├── README.md
+│   │   ├── notes.md
+│   │   ├── diagrams/
+│   │   └── code/
+│   ├── Day-02-sessions-cookies/
+│   ├── Day-03-auth-vs-authz/
+│   ├── Day-04-error-handling/
+│   └── Day-05-appsec-notes/
+│
+├── 02-owasp-top10-pt1/
+│   ├── Day-06-sql-injection/
+│   ├── Day-07-broken-auth/
+│   ├── Day-08-sensitive-data/
+│   ├── Day-09-injection-concepts/
+│   └── Day-10-django-fixes/
+│
+├── 03-owasp-top10-pt2/
+│   ├── Day-11-idor/
+│   ├── Day-12-misconfiguration/
+│   ├── Day-13-xss/
+│   ├── Day-14-deserialization/
+│   └── Day-15-mitigation-mapping/
+│
+├── 04-django-apis/
+│   ├── Day-16-django-security/
+│   ├── Day-17-auth-flows/
+│   ├── Day-18-rbac/
+│   ├── Day-19-input-validation/
+│   └── Day-20-audit-logging/
+│
+├── 05-api-security/
+│   ├── Day-21-api-threat-modeling/
+│   ├── Day-22-oauth-jwt/
+│   ├── Day-23-rate-limiting/
+│   ├── Day-24-api-errors/
+│   └── Day-25-secure-api-doc/
+│
+├── 06-secure-project/
+│   └── django-banking-api/
+│       ├── README.md
+│       ├── requirements.txt
+│       ├── src/
+│       ├── tests/
+│       └── security-docs/
+│
+├── 07-tools-sdlc/
+│   ├── Day-31-code-review/
+│   ├── Day-32-sast-bandit/
+│   ├── Day-33-dependency-scan/
+│   ├── Day-34-dast-zap/
+│   ├── Day-35-findings-review/
+│   ├── Day-36-secure-sdlc/
+│   ├── Day-37-ci-cd/
+│   ├── Day-38-secrets-mgmt/
+│   ├── Day-39-docker-security/
+│   └── Day-40-threat-model-project/
+│
+├── 08-exploit-fix/
+│   ├── Day-41-sqli-exploit/
+│   ├── Day-42-sqli-fix/
+│   ├── Day-43-broken-auth-exploit/
+│   ├── Day-44-auth-fix/
+│   └── Day-45-write-report/
+│
+├── 09-communication/
+│   ├── Day-46-risk-communication/
+│   ├── Day-47-dev-communication/
+│   ├── Day-48-incident-summary/
+│   ├── Day-49-attack-mapping/
+│   └── Day-50-publish-article/
+│
+└── 10-career-prep/
+    ├── Day-51-cert-review/
+    ├── Day-52-cert-mapping/
+    ├── Day-53-scenario-questions/
+    ├── Day-54-weak-areas/
+    ├── Day-55-revision/
+    ├── Day-56-cv-rewrite/
+    ├── Day-57-linkedin-update/
+    ├── Day-58-mock-interview/
+    ├── Day-59-apply-jobs/
+    └── Day-60-reflect-adjust/
